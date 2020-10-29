@@ -67,3 +67,5 @@ for(index in topics){
 // }while(i<10)
 
 // console.log(num);
+
+console.log(new);
